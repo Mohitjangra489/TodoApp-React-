@@ -1,6 +1,11 @@
 # About
 Built a Todo List App in which we can add our day to day tasks that we want to do. It’s a list of tasks you need to complete or things that you want to do. It seems such a simple solution by putting pen to paper and taking time out of your day to create a to do list, a plan for your day helps define your challenges and goals. The application typically includes a feature for adding new tasks, editing existing tasks and marking tasks as completed.
 
+# Screenshots of this project.
+<h2>Homepages</h2>
+<img src="https://github.com/Mohitjangra489/TodoApp/assets/119482895/4b69c8d2-fa4c-4539-8405-8e80d8691ba1"/>
+<img src="https://github.com/Mohitjangra489/TodoApp/assets/119482895/b08bbb99-7df0-43df-8c74-ef535d6f0e65"/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
