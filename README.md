@@ -1,5 +1,5 @@
 # About
-Built a Todo List App in which we can add our day to day tasks that we want to do. It’s a list of tasks you need to complete or things that you want to do. It seems such a simple solution by putting pen to paper and taking time out of your day to create a to do list, a plan for your day helps define your challenges and goals. The application typically includes a feature for adding new tasks, editing existing tasks and marking tasks as completed.
+Built a Todo List App using React.js technology in which we can add our day to day tasks that we want to do. It’s a list of tasks you need to complete or things that you want to do. It seems such a simple solution by putting pen to paper and taking time out of your day to create a to do list, a plan for your day helps define your challenges and goals. The application typically includes a feature for adding new tasks, editing existing tasks and marking tasks as completed.
 
 # Screenshots of this project.
 <h2>Homepages</h2>
