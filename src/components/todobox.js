@@ -9,7 +9,7 @@ function Todobox({ chng }) {
   const [fdata, setfdata] = useState([]);
 
   useEffect( function () {
-    fetch('http://localhost:8000/gettodo')
+    fetch('mongodb+srv://mohit489:mohit489@cluster0.8ol98zz.mongodb.net/TodoReact/gettodo')
       .then(res => res.json())
       .then(data =>{
         console.log("11111111:",data);
